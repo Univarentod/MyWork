@@ -1,0 +1,58 @@
+h1, h2 {
+    letter-spacing: 0.2em;
+}
+
+h1 {
+    margin: 0;
+    font-family: Giddyup Std;
+    color: #D5D500;
+    font-style: normal;
+    font-size: 80pt;
+}
+
+h2 {
+    background-color: #F0F0F0;
+    font-family: Century Gothic;
+    color: #A4A400;
+    text-decoration: underline;
+    font-size: 18pt;
+    letter-spacing: 0.2em;
+    font-weight: normal;
+}
+
+body {
+    color: #404040;
+    font-size: 11pt;
+    font-family: Georgia;
+    background-image: url("../pic/silverware.jpg");
+    background-attachment: fixed;
+}
+
+#intro {
+    font-size: 14pt;
+    font-style: oblique;
+    float: left;
+}
+
+#bottom {
+    text-align: center;
+}
+
+#pics {
+    margin-bottom: 40px;
+}
+
+.images {
+    width: 250px;
+    height: 250px;
+    border-style: solid;
+    color: #A0A0A0;
+}
+
+#cook {
+    float:right;
+}
+
+#clear {
+    clear: both;
+}
